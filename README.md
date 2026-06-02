@@ -4,6 +4,6 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui você encontrará dash
 
 ## Projetos
 
-### 📊 [Dashboard de RH](./rh)
+### 📊 [Dashboard de RH](./RH)
 
 Descrição: Acompanhamento de indicadores de Recursos Humanos.
