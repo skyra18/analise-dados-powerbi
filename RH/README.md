@@ -6,3 +6,5 @@ Ferramentas Utilizadas
 - Power BI
 - Power Query
 - DAX
+
+![Dashboard RH](Dashboard.png)
