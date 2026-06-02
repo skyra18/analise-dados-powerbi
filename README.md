@@ -4,5 +4,5 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui você encontrará dash
 
 ## Projetos
   
-### [Dashboard de RH](dashboard-rh/README.md)
+### [Dashboard de RH](rh/README.md)
 - Descrição: Acompanhamento de indicadores de Recursos Humanos.
