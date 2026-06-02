@@ -3,6 +3,7 @@
 Bem-vindo ao meu portfólio de projetos em Power BI! Aqui você encontrará dashboards criados para diferentes áreas de negócio.
 
 ## Projetos
-  
-### [Dashboard de RH](rh/README.md)
-- Descrição: Acompanhamento de indicadores de Recursos Humanos.
+
+### 📊 [Dashboard de RH](./rh)
+
+Descrição: Acompanhamento de indicadores de Recursos Humanos.
